@@ -82,7 +82,7 @@ AIだけではなく，自然言語処理や機械学習に関する最難関国
 **Panelists:**
 - [Okazaki Naoaki](https://www.chokkan.org/)
 - [Jun Suzuki](https://www.fai.cds.tohoku.ac.jp/members/js/)
-- [Yugo Muerawaki](https://murawaki.org/)
+- [Yugo Murawaki](https://murawaki.org/)
 - [Kensuke Sakaguchi](https://keisuke-sakaguchi.github.io/about_jp/)
 - [Sho Takase](https://takase.github.io/)
 
