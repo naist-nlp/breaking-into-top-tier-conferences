@@ -168,7 +168,7 @@ _site
 論文投稿などを受け付ける場合、call for paper (cfp) などの作成が必要になってきますが、とりあえずここでは一旦なにも考えずに、とりあえず、サイト公開時に最低限の情報が載っているようにしたいです。
 
 TODO: あとでcfp1のときのindex.mdのリンクを貼り付ける。
-
+https://github.com/naist-nlp/breaking-into-top-tier-conferences/blob/72ebe7c085efa8b48f7d86cf7518daef96edb3bc/index.md
 
 
 ### 2.1 ロゴを作成する
