@@ -80,10 +80,10 @@ AIだけではなく，自然言語処理や機械学習に関する最難関国
 ## Panel Discussion (11:45 – 12:30)
 
 **Panelists:**
-- [Okazaki Naoaki](https://www.chokkan.org/)
+- [Naoaki Okazaki](https://www.chokkan.org/)
 - [Jun Suzuki](https://www.fai.cds.tohoku.ac.jp/members/js/)
 - [Yugo Murawaki](https://murawaki.org/)
-- [Kensuke Sakaguchi](https://keisuke-sakaguchi.github.io/about_jp/)
+- [Keisuke Sakaguchi](https://keisuke-sakaguchi.github.io/about_jp/)
 - [Sho Takase](https://takase.github.io/)
 
 **Topics (tentative):**
