@@ -26,10 +26,11 @@ AIだけではなく，自然言語処理や機械学習に関する最難関国
 |:---------------|:----------------------------|:-----:|
 | **09:00 – 11:00** | **Talk Session**         |       |
 | 09:00 – 09:30  | Graham Neubig               |       |
-| 09:30 – 10:00  | Jun Suzuki                  |       |
-| 10:00 – 10:15  | *(Coffee Break)*            | 🍋🥛  |
-| 10:15 – 10:45  | Yusuke Sakai                |       |
-| 10:45 – 11:15  | Masahiro Kaneko             |       |
+| 09:30 – 10:00  | Naoaki Okazaki              |       |
+| 10:00 – 10:30  | Jun Suzuki                  |       |
+| 10:30 – 10:45  | *(Coffee Break)*            | 🍋🥛  |
+| 10:45 – 11:15  | Yusuke Sakai                |       |
+| 11:15 – 11:45  | Masahiro Kaneko             |       |
 | **11:45 – 12:30** | **Panel Discussion**     |       |
 | 12:30 – 13:30  |     *(Lunch)*               |  🥟🥟 |
 | **13:30 – 15:00** | **Talk for Experience**  | TBA   |
