@@ -53,7 +53,7 @@ AIだけではなく，自然言語処理や機械学習に関する最難関国
 ---
 
 ### 9:30 – 10:00  
-**Speaker:** **[Jun Suzuki](https://www.fai.cds.tohoku.ac.jp/members/js/)**  
+**Speaker:** **[Naoaki Okazaki](https://www.chokkan.org/)**  
 **Title:**
 (TBA)   
 **Overview:**  
@@ -61,8 +61,8 @@ AIだけではなく，自然言語処理や機械学習に関する最難関国
 
 ---
 
-### 10:15 – 10:45  
-**Speaker:** **[Yusuke Sakai](https://www.yusuke1997.jp/)**  
+### 10:00 – 10:30  
+**Speaker:** **[Jun Suzuki](https://www.fai.cds.tohoku.ac.jp/members/js/)**  
 **Title:**
 (TBA)  
 **Overview:**  
@@ -71,11 +71,21 @@ AIだけではなく，自然言語処理や機械学習に関する最難関国
 ---
 
 ### 10:45 – 11:15  
+**Speaker:** **[Yusuke Sakai](https://www.yusuke1997.jp/)**  
+**Title:**
+(TBA)  
+**Overview:**  
+(TBA)
+
+---
+
+### 11:15 – 11:45  
 **Speaker:** **[Masahiro Kaneko](https://sites.google.com/view/masahirokaneko)**  
 **Title:**
 (TBA)  
 **Overview:**  
 (TBA)
+
 
 ---
 
