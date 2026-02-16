@@ -15,6 +15,7 @@ AIだけではなく，自然言語処理や機械学習に関する最難関国
 
 
 ## News
+- February 16, 2026: スケジュールを更新しました。
 - January 13, 2026: スケジュールの詳細を公開しました。
 - December 4, 2025: サイト公開しました。
 
@@ -33,9 +34,9 @@ AIだけではなく，自然言語処理や機械学習に関する最難関国
 | 11:15 – 11:45  | Masahiro Kaneko             |       |
 | **11:45 – 12:30** | **Panel Discussion**     |       |
 | 12:30 – 13:30  |     *(Lunch)*               |  🥟🥟 |
-| **13:30 – 15:00** | **Talk for Experience**  | TBA   |
+| **13:30 – 15:00** | **Talk for Experience**  |       |
 | 15:00 – 15:15  | *(Coffee Break)*            | 🍋🥛  |
-| **15:15 – 16:30** | **Hands-on Session**     | TBA   |
+| **15:15 – 16:30** | **Hands-on Session**     |       |
 
 ---
 
@@ -46,10 +47,12 @@ AIだけではなく，自然言語処理や機械学習に関する最難関国
 ### 9:00 – 9:30
 
 **Speaker:** **[Graham Neubig](https://www.phontron.com/index.php?lang=ja)**  
-**Title:**
-(TBA)  
+
+**Title:**  
+Thoughts on International Conferences: An Interview with Graham Neubig
+
 **Overview:**  
-(TBA)
+トップ国際会議に大量の論文が投稿されるようになり、海外での研究成果発表が難しくなっています。学術会ならびに産業界にてご活躍されているGraham Neubig先生に、自然言語処理や機械学習分野における国際会議の現状、研究の進め方、論文の書き方、などさまざまなご意見を伺います。トップ国際会議に大量の論文が投稿されるようになり、海外での研究成果発表が難しくなっています。学術会ならびに産業界にてご活躍されているGraham Neubig先生に、自然言語処理や機械学習分野における国際会議の現状、研究の進め方、論文の書き方、などさまざまなご意見を伺います。
 
 ---
 
@@ -63,11 +66,13 @@ AIだけではなく，自然言語処理や機械学習に関する最難関国
 ---
 
 ### 10:00 – 10:30  
-**Speaker:** **[Jun Suzuki](https://www.fai.cds.tohoku.ac.jp/members/js/)**  
-**Title:**
-(TBA)  
+**Speaker:** **[Jun Suzuki](https://www.fai.cds.tohoku.ac.jp/members/js/)**
+
+**Title:**  
+ACL Rolling Review Editor-in-Chief として得た経験の共有
+
 **Overview:**  
-(TBA)
+自然言語処理研究分野の統合査読システムである ACL Rolling Review (通称ARR) の Editor-in-Chief (EiC) の一人として，2023年4月ごろから約2年半にわたり活動した．今後 ARR に論文を投稿する研究者の参考となる話題を中心に，EiCとして得た経験と知見に基づき，国際会議論文の査読プロセス全体の内情を可能な範囲で共有する．
 
 ---
 
@@ -118,17 +123,27 @@ Link: [https://forms.gle/SYUgbEfgzhh3c4fJ9](https://forms.gle/SYUgbEfgzhh3c4fJ9)
 ## Talk for Experience (13:30 – 15:00)
 
 論文投稿や採択などについてのtipsや体験談のライトニングトークと紹介を行います。
-詳細は1月末に公開予定。
-
-Link: TBA
+詳細は2月末に公開予定。
 
 ---
 
-## Hands-on (15:15 – 16:30)
+## Hands-on (15:15 – 16:45)
+
+**司会:** [Taro Watanabe](https://sites.google.com/site/tarowtnb/)
 
 論文の書き方やテーマ決め、査読対応（Rebuttal）について、実例を用いて解説を行います。
-詳細は1月末に公開予定。
+対話形式で進行する予定です。以下は現在想定している内容ですが、これに限定されません。
 
+- **テーマ決め**
+  - 実際のテーマ決めと方針決定の様子をお見せします。
+  - 渡辺研究室での初回ミーティングでの様子を再現します。
+- **論文執筆の進め方**
+  - 実際にACLに採択された論文の編集履歴を題材に解説します。
+  - 共著者のコメントの仕方なども含めて、議論・解説します。
+- **査読対応（Rebuttal）の方法**
+  - 実際に採択された論文の査読対応を用いて議論・解説します。
+  - 査読対応が成功した例や反応がない場合の対応なども議論します。
+  - 査読者の意図や対応方法を、クイズなど対話形式で解説します。
 
 ---
 
