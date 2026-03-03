@@ -15,6 +15,7 @@ AIだけではなく，自然言語処理や機械学習に関する最難関国
 
 
 ## News
+- March 3, 2026: Talk for Experienceを更新しました。
 - February 16, 2026: スケジュールを更新しました。
 - January 13, 2026: スケジュールの詳細を公開しました。
 - December 4, 2025: サイト公開しました。
@@ -52,16 +53,16 @@ AIだけではなく，自然言語処理や機械学習に関する最難関国
 Thoughts on International Conferences: An Interview with Graham Neubig
 
 **Overview:**  
-トップ国際会議に大量の論文が投稿されるようになり、海外での研究成果発表が難しくなっています。学術会ならびに産業界にてご活躍されているGraham Neubig先生に、自然言語処理や機械学習分野における国際会議の現状、研究の進め方、論文の書き方、などさまざまなご意見を伺います。トップ国際会議に大量の論文が投稿されるようになり、海外での研究成果発表が難しくなっています。学術会ならびに産業界にてご活躍されているGraham Neubig先生に、自然言語処理や機械学習分野における国際会議の現状、研究の進め方、論文の書き方、などさまざまなご意見を伺います。
+トップ国際会議に大量の論文が投稿されるようになり、海外での研究成果発表が難しくなっています。学術会ならびに産業界にてご活躍されているGraham Neubig先生に、自然言語処理や機械学習分野における国際会議の現状、研究の進め方、論文の書き方、などさまざまなご意見を伺います。
 
 ---
 
 ### 9:30 – 10:00  
 **Speaker:** **[Naoaki Okazaki](https://www.chokkan.org/)**  
 **Title:**
-(TBA)   
+トップ国際会議の舞台裏：論文はどのように選ばれるのか   
 **Overview:**  
-(TBA)
+本講演では、ACLなどの自然言語処理分野のトップ国際会議における論文選考プロセスの実態を、Program Chairとしての経験に基づいて紹介する。査読プロセスの構造、評価基準の実際、近年の投稿論文や研究トレンドの変化、そして大規模言語モデル時代における論文執筆・研究発信のあり方の変容について議論する。国際会議の舞台裏を知ることで、参加者がより気軽に世界へ研究を発信する第一歩を踏み出す契機となることを目指す。
 
 ---
 
@@ -123,7 +124,13 @@ Link: [https://forms.gle/SYUgbEfgzhh3c4fJ9](https://forms.gle/SYUgbEfgzhh3c4fJ9)
 ## Talk for Experience (13:30 – 15:00)
 
 論文投稿や採択などについてのtipsや体験談のライトニングトークと紹介を行います。
-詳細は2月末に公開予定。
+各登壇者には、質疑応答を含めておよそ20分程度お話しいただく予定です。
+特に、論文投稿戦略や査読対応の工夫、アイデアの出し方、研究の進め方などについて、最近のご経験をもとにお話しいただきます。
+
+- [Takashi Wada](https://scholar.google.com/citations?user=RLwFtDsAAAAJ&hl=en)
+- [Yui Oka](https://okayu1015.github.io/me/ja/)
+- [Kazuma Kobayashi](https://researchmap.jp/k00747610)
+- [Kazuki Hayashi](https://aclanthology.org/people/kazuki-hayashi/)
 
 ---
 
