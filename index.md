@@ -59,8 +59,10 @@ Thoughts on International Conferences: An Interview with Graham Neubig
 
 ### 9:30 – 10:00  
 **Speaker:** **[Naoaki Okazaki](https://www.chokkan.org/)**  
+
 **Title:**
 トップ国際会議の舞台裏：論文はどのように選ばれるのか   
+
 **Overview:**  
 本講演では、ACLなどの自然言語処理分野のトップ国際会議における論文選考プロセスの実態を、Program Chairとしての経験に基づいて紹介する。査読プロセスの構造、評価基準の実際、近年の投稿論文や研究トレンドの変化、そして大規模言語モデル時代における論文執筆・研究発信のあり方の変容について議論する。国際会議の舞台裏を知ることで、参加者がより気軽に世界へ研究を発信する第一歩を踏み出す契機となることを目指す。
 
