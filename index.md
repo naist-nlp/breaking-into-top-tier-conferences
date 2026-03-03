@@ -127,10 +127,10 @@ Link: [https://forms.gle/SYUgbEfgzhh3c4fJ9](https://forms.gle/SYUgbEfgzhh3c4fJ9)
 各登壇者には、質疑応答を含めておよそ20分程度お話しいただく予定です。
 特に、論文投稿戦略や査読対応の工夫、アイデアの出し方、研究の進め方などについて、最近のご経験をもとにお話しいただきます。
 
-- [Takashi Wada](https://scholar.google.com/citations?user=RLwFtDsAAAAJ&hl=en)
-- [Yui Oka](https://okayu1015.github.io/me/ja/)
-- [Kazuma Kobayashi](https://researchmap.jp/k00747610)
-- [Kazuki Hayashi](https://aclanthology.org/people/kazuki-hayashi/)
+- [Takashi Wada](https://scholar.google.com/citations?user=RLwFtDsAAAAJ&hl=en), ZOZO Research
+- [Yui Oka](https://okayu1015.github.io/me/ja/), NTT/Tohoku University
+- [Kazuma Kobayashi](https://researchmap.jp/k00747610), NCC/NII LLMC
+- [Kazuki Hayashi](https://aclanthology.org/people/kazuki-hayashi/), NAIST
 
 ---
 
