@@ -26,18 +26,31 @@ AIだけではなく，自然言語処理や機械学習に関する最難関国
 
 | Time           | Session / Speaker           | Notes |
 |:---------------|:----------------------------|:-----:|
-| **09:00 – 11:00** | **Talk Session**         |       |
+| **09:00 – 11:00** | **Talk Session**        | [[Link]](#talk-0900--1100) |
 | 09:00 – 09:30  | Graham Neubig               |       |
 | 09:30 – 10:00  | Naoaki Okazaki              |       |
 | 10:00 – 10:30  | Jun Suzuki                  |       |
 | 10:30 – 10:45  | *(Coffee Break)*            | 🍋🥛  |
 | 10:45 – 11:15  | Yusuke Sakai                |       |
 | 11:15 – 11:45  | Masahiro Kaneko             |       |
-| **11:45 – 12:30** | **Panel Discussion**     |       |
+| **11:45 – 12:30** | **Panel Discussion**     | [[Link]](#panel-discussion-1145--1230)      |
+|                   | Naoaki Okazaki           | Panelist      |
+|                   | Jun Suzuki               | Panelist      |
+|                   | Yugo Murawaki            | Panelist      |
+|                   | Keisuke Sakaguchi        | Panelist      |
+|                   | Sho Takase               | Panelist      |
 | 12:30 – 13:30  |     *(Lunch)*               |  🥟🥟 |
-| **13:30 – 15:00** | **Talk for Experience**  |       |
+| **13:30 – 15:00** | **Talk for Experience**  | [[Link]](#talk-for-experience-1330--1500)      |
+|                   | Takashi Wada             |       |
+|                   | Yui Oka                  |       |
+|                   | Kazuma Kobayashi         |       |
+|                   | Kazuki Hayashi           |       |
 | 15:00 – 15:15  | *(Coffee Break)*            | 🍋🥛  |
-| **15:15 – 16:45** | **Hands-on Session**     |       |
+| **15:15 – 16:45** | **Hands-on Session**     | [[Link]](#hands-on-1515--1645)      |
+|                   | Topic Selection          |       |
+|                   | How to Write a Paper     |       |
+|                   | Rebuttal Methods         |       |
+|                   | (Closing)                | 🕔️ 🔐  |
 
 ---
 
@@ -82,7 +95,7 @@ ACL Rolling Review Editor-in-Chief として得た経験の共有
 ### 10:45 – 11:15  
 **Speaker:** **[Yusuke Sakai](https://www.yusuke1997.jp/)**  
 
-**Title:**
+**Title:**  
 ARRにおけるGreat Reviewの取り方と現状のレビュー環境について
 
 **Overview:**  
@@ -93,7 +106,7 @@ ACL Rolling Reviewには優れたレビューに対してGreat Reviewと評価�
 ### 11:15 – 11:45  
 **Speaker:** **[Masahiro Kaneko](https://sites.google.com/view/masahirokaneko)**  
 
-**Title:**
+**Title:**  
 国際会議スランプに効く薬
 
 **Overview:**  
